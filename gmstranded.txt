@@ -1,0 +1,6 @@
+"gmwilderness" {
+	"base" "base"
+	"title" "Wilderness"
+	"maps" "^gms_"
+	"menusystem" "1"
+}
